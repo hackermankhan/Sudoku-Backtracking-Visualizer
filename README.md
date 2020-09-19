@@ -20,7 +20,7 @@ Selecting a box by clicking on it allows you to note a number in that box, you m
 
 <div style="float: left;">
 <img src="images/gameplay.gif" width="400"/>
-<img src="images/backtracking.gif" width="400"/>
+<img src="images/backtrackVisual.gif" width="400"/>
 </div>
 
 
