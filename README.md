@@ -18,8 +18,8 @@ Selecting a box by clicking on it allows you to note a number in that box, you m
 | N | generate a new puzzle using an algorithm |
 | Upload button | upload a txt file with 9x9 numbers to create a puzzle based off the file
 
-❮img src="images/screenshot1.png" width="200" ❯
-![](images/screenshot1.png)
+<img src="images/screenshot1.png" width="400"/>
+
 
   
 
