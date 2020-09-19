@@ -1,5 +1,7 @@
 # Backtracking Visualed: Sudoku-Puzzle-Generator-&-Solver
 
+![](images/screenshot1.png)
+
 Features:
 - Fully playable game with a graphical user interface (GUI) 
 - Auto generates puzzles as well as solves puzzles using backtracking algrorithm
