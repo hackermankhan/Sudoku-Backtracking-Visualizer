@@ -1,4 +1,4 @@
-# Backtracking Visualed: Sudoku-Puzzle-Generator-&-Solver
+# Sudoku-Puzzle-Generator-&-Solver
 
 Features:
 - Fully playable game with a graphical user interface (GUI) 
