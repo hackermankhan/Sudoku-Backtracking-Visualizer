@@ -1,7 +1,5 @@
 # Backtracking Visualed: Sudoku-Puzzle-Generator-&-Solver
 
-![](images/screenshot1.png)
-
 Features:
 - Fully playable game with a graphical user interface (GUI) 
 - Auto generates puzzles as well as solves puzzles using backtracking algrorithm
@@ -19,6 +17,9 @@ Selecting a box by clicking on it allows you to note a number in that box, you m
 | Space | completes the puzzle but with an animation to visual how backtracking works |
 | N | generate a new puzzle using an algorithm |
 | Upload button | upload a txt file with 9x9 numbers to create a puzzle based off the file
+
+❮img src="images/screenshot1.png" width="200" ❯
+![](images/screenshot1.png)
 
   
 
